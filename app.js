@@ -200,7 +200,7 @@ engineInit(
     {
         //mainContext.fillStyle = (new Color).setHSLA(time/3,1,.5,p).rgba();
         mainContext.font = '1.5in impact';
-        mainContext.fillText('ALEX\'S SPACE BLASTERS', mainCanvas.width/2, 140);
+        mainContext.fillText('ALEX\'S SPACE BLASTER', mainCanvas.width/2, 140);
     }
 
     mainContext.font = '.5in impact';
